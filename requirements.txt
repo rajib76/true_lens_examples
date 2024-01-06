@@ -1,0 +1,8 @@
+trulens_eval
+openai
+python-dotenv
+chromadb
+llama-index
+IPython
+boto3
+botocore
